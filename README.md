@@ -63,8 +63,7 @@ Esse projeto foi feito como prática de análise de dados, com foco em consolida
 
 ## Dashboard
 
-### Visão geral
-![Dashboard](dashboard/imagens/dashboard_geral.png)
+![Dashboard](dashboard.png)
 
 ## Autora
 
