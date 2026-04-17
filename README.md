@@ -65,6 +65,4 @@ Esse projeto foi feito como prática de análise de dados, com foco em consolida
 
 ![Dashboard](dashboard.png)
 
-## Autora
 
-Liliam Kezia
