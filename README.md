@@ -42,10 +42,8 @@ O dashboard foi construído no Power BI com foco em:
 
 ##  Estrutura do projeto
 
-- `sql/` → scripts de criação, inserts e análises
-- `dashboard/` → arquivo do Power BI
-- `docs/` → materiais de apoio
-
+- `SQL/` → scripts de criação, inserts e análises  
+- `dashboard_vendas.pbix` → arquivo do Power BI
 
 
 ##  Como executar
