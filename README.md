@@ -61,7 +61,10 @@ O dashboard foi construído no Power BI com foco em:
 
 Esse projeto foi feito como prática de análise de dados, com foco em consolidar conhecimentos em SQL e Power BI.
 
+## Dashboard
 
+### Visão geral
+![Dashboard](dashboard/imagens/dashboard_geral.png)
 
 ## Autora
 
