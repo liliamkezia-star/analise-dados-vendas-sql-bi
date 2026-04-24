@@ -61,6 +61,5 @@ Esse projeto foi feito como prática de análise de dados, com foco em consolida
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
-
+![Dashboard Atual](dashboard_v2.png)
 
