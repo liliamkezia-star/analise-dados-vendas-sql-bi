@@ -73,3 +73,6 @@ O dashboard foi atualizado para uma versão mais completa e profissional, com me
 - Organização em layout corporativo (padrão BI)  
 - Melhor legibilidade e análise visual dos dados  
 
+### Versão anterior
+
+![Dashboard Antigo](dashboard_antigo.png)
