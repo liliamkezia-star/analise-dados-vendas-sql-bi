@@ -1,49 +1,31 @@
-# Análise de Dados de Vendas (SQL + Power BI)
+# Análise de Performance de Vendas (SQL + Power BI)
 
-Esse projeto foi desenvolvido com o objetivo de praticar análise de dados utilizando SQL Server e Power BI, simulando um cenário real de vendas.
+Este projeto tem como objetivo simular um cenário real de negócio, desenvolvendo uma solução completa de análise de dados, desde a modelagem até a visualização em dashboard.
 
-A ideia foi construir desde a base de dados até o dashboard final, trabalhando modelagem relacional, consultas SQL e visualização de dados.
+# Objetivo
 
+Construir um dashboard interativo para análise de performance de vendas, permitindo acompanhar indicadores-chave e identificar padrões de comportamento dos dados.
 
+# Tecnologias utilizadas
+SQL Server
+Power BI
+DAX (Data Analysis Expressions)
 
-##  O que foi feito
+# Modelagem de Dados
 
-- Criação do banco de dados no SQL Server
-- Modelagem das tabelas (cliente, produto, nota fiscal, etc.)
-- Relacionamentos entre as tabelas
-- Inserção de dados para simular um ambiente real
-- Consultas SQL para análise de vendas
-- Construção de dashboard no Power BI
+Foi construída uma estrutura relacional simulando um ambiente de vendas, contendo:
 
+Clientes
+Produtos
+Categorias
+Notas fiscais
+Itens de venda
 
-
-##  Principais análises
-
-- Faturamento total
-- Ticket médio
-- Crescimento percentual
-- Faturamento ao longo do tempo
-- Produtos com maior faturamento
-- Faturamento por categoria
-- Vendas por cidade (mapa)
-
-
-
-##  Dashboard
-
-O dashboard foi construído no Power BI com foco em:
-
-- visão geral das vendas (KPIs)
-- análise temporal
-- desempenho de produtos
-- distribuição geográfica
-
-
-
-##  Estrutura do projeto
-
-- `SQL/` → scripts de criação, inserts e análises  
-- `dashboard_vendas.pbix` → arquivo do Power BI
+# Principais Métricas
+Faturamento Total
+Quantidade de Vendas
+Ticket Médio
+Crescimento (%) mensal e anual
 
 
 ##  Como executar
