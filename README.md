@@ -27,34 +27,47 @@ Quantidade de Vendas
 Ticket Médio
 Crescimento (%) mensal e anual
 
+# Análises Realizadas
 
-##  Como executar
+## Análise temporal
+Evolução do faturamento e volume de vendas ao longo do tempo, permitindo identificar tendências e variações no período.
 
-1. Executar o script de criação das tabelas
-2. Inserir os dados
-3. Rodar as consultas SQL
-4. Abrir o dashboard no Power BI
+## Comparação de métricas
+Análise conjunta entre quantidade vendida e faturamento, evidenciando diferenças entre volume e valor agregado.
 
+## Drill Down (Categoria → Produto)
+Possibilita aprofundar a análise até o nível de produto, facilitando a identificação de itens mais relevantes.
 
-
-##  Observação
-
-Esse projeto foi feito como prática de análise de dados, com foco em consolidar conhecimentos em SQL e Power BI.
-
-## Dashboard
+# Dashboard Atual
 
 ![Dashboard Atual](dashboard_v2.png)
 
-## Evolução do Dashboard
+# Evolução do Dashboard
 
-O dashboard foi atualizado para uma versão mais completa e profissional, com melhorias importantes:
+Nesta versão foram implementadas melhorias importantes:
 
 - KPIs com variação percentual mensal e anual  
-- Gráfico comparativo entre volume de vendas e faturamento  
+- Gráfico comparativo (volume de vendas vs faturamento)  
 - Implementação de drill down (categoria → produto)  
-- Organização em layout corporativo (padrão BI)  
-- Melhor legibilidade e análise visual dos dados  
+- Aplicação de layout corporativo  
+- Melhor organização visual e leitura dos dados  
 
-### Versão anterior
+# Versão Anterior
 
 ![Dashboard Antigo](dashboard_antigo.png)
+
+# Estrutura do Projeto
+
+- `SQL/` → scripts de criação, inserção e análise  
+- `PROJETO BI.pbix` → dashboard no Power BI
+
+# Como executar
+
+1. Executar os scripts SQL para criação do banco  
+2. Inserir os dados  
+3. Rodar as consultas de análise  
+4. Abrir o arquivo no Power BI
+
+# Conclusão
+
+O projeto demonstra a construção de uma solução de análise de dados completa, com foco em indicadores de negócio, visualização eficiente e capacidade de aprofundamento analítico.
