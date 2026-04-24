@@ -114,4 +114,4 @@ O projeto demonstra a construção de uma solução de análise de dados complet
 
 ## Acesso ao Projeto
 
-[Download do Dashboard (Power BI)](PROJETO BI.pbix)
+[Download do Dashboard (Power BI)](projeto-bi.pbix)
