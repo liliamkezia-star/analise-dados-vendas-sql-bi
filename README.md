@@ -63,3 +63,13 @@ Esse projeto foi feito como prática de análise de dados, com foco em consolida
 
 ![Dashboard Atual](dashboard_v2.png)
 
+## Evolução do Dashboard
+
+O dashboard foi atualizado para uma versão mais completa e profissional, com melhorias importantes:
+
+- KPIs com variação percentual mensal e anual  
+- Gráfico comparativo entre volume de vendas e faturamento  
+- Implementação de drill down (categoria → produto)  
+- Organização em layout corporativo (padrão BI)  
+- Melhor legibilidade e análise visual dos dados  
+
