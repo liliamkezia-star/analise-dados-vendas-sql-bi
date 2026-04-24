@@ -1,6 +1,16 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=microsoftsqlserver)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+
 # Análise de Performance de Vendas (SQL + Power BI)
 
 Este projeto tem como objetivo simular um cenário real de negócio, desenvolvendo uma solução completa de análise de dados, desde a modelagem até a visualização em dashboard.
+
+# Destaque do Projeto
+
+Dashboard desenvolvido com foco em análise de performance de vendas, combinando métricas de negócio, análise temporal e aprofundamento por categoria e produto.
+
+O projeto permite identificar padrões entre volume de vendas e faturamento, auxiliando na tomada de decisão baseada em dados.
 
 # Objetivo
 
@@ -71,3 +81,7 @@ Nesta versão foram implementadas melhorias importantes:
 # Conclusão
 
 O projeto demonstra a construção de uma solução de análise de dados completa, com foco em indicadores de negócio, visualização eficiente e capacidade de aprofundamento analítico.
+
+# Acesso ao Projeto
+
+[📥 Download do Dashboard (Power BI)](PROJETO BI.pbix)
